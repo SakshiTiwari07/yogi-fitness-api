@@ -29,7 +29,9 @@ This is a RESTful API built using **Django** and **Django REST Framework** for m
  
 
 
-link clone
+use given below link 
+
+(https://github.com/SakshiTiwari07/yogi-fitness-api.git)
 cd yogi_fitness_api
 
 
