@@ -15,11 +15,11 @@ This is a RESTful API built using **Django** and **Django REST Framework** for m
 
 ## Tech Stack
 
-- Python (version - Python 3.12.5)
-- Django
-- Django REST Framework
-- SQLite
-- Postman / cURL for testing
+1 Python (version - Python 3.12.5)
+2 Django
+3 Django REST Framework
+4 SQLite
+5 Postman / cURL for testing
 
 ---
 
