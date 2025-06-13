@@ -2,18 +2,18 @@
 
 This is a RESTful API built using **Django** and **Django REST Framework** for managing fitness classes and class bookings.
 
-## 📚 Features
+##  Features
 
-- ✅ View all available fitness classes
-- ✅ Book a fitness class if slots are available
-- ✅ Retrieve all bookings by email
-- 🕒 Timezone-aware scheduling (IST by default)
-- 🧪 Input validation and error handling
-- 🧱 In-memory DB (SQLite)
+-  View all available fitness classes
+-  Book a fitness class if slots are available
+-  Retrieve all bookings by email
+-  Timezone-aware scheduling (IST by default)
+-  Input validation and error handling
+-  In-memory DB (SQLite)
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 - Python (version - Python 3.12.5)
 - Django
@@ -23,13 +23,13 @@ This is a RESTful API built using **Django** and **Django REST Framework** for m
 
 ---
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
 1. **Clone the repository**  
-   (Replace with your actual GitHub repo link if using GitHub)
+ 
 
-```bash
-git clone https://github.com/your-username/yogi-fitness-api.git
+
+link clone
 cd yogi_fitness_api
 
 
