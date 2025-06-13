@@ -15,7 +15,7 @@ This is a RESTful API built using **Django** and **Django REST Framework** for m
 
 ## 📦 Tech Stack
 
-- Python 3.x
+- Python (version - Python 3.12.5)
 - Django
 - Django REST Framework
 - SQLite
